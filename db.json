@@ -1,12 +1,12 @@
 {
-  "colleges":[
+  "colleges": [
     {
       "id": "Clgeng1",
       "name": "Bharatiya Vidya Bhavan's Sardar Patel College of Engineering",
       "stream": "Engineering",
       "cutoff": {
-        "lastYear": '',
-        "currentYear": ''
+        "lastYear": "",
+        "currentYear": ""
       },
       "location": {
         "state": "Maharashtra",
@@ -19,8 +19,8 @@
       "name": "IIT BOMBAY - INDIAN INSTITUTE OF TECHNOLOGY",
       "stream": "Engineering",
       "cutoff": {
-        "lastYear": '',
-        "currentYear": ''
+        "lastYear": "",
+        "currentYear": ""
       },
       "location": {
         "state": "Maharashtra",
@@ -33,8 +33,8 @@
       "name": "DWARKADAS J SANGHVI COLLEGE OF ENGINEERING",
       "stream": "Engineering",
       "cutoff": {
-        "lastYear": '',
-        "currentYear": ''
+        "lastYear": "",
+        "currentYear": ""
       },
       "location": {
         "state": "Maharashtra",
