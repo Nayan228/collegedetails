@@ -83,6 +83,132 @@
         "city": "Mumbai",
         "locality": "VidyaVihar"
       }
+    },
+    {
+      "id": "Clgart1",
+      "name": "St. Xavier's College",
+      "stream": "Arts",
+      "cutoff": {
+        "lastYear": "",
+        "currentYear": ""
+      },
+      "location": {
+        "state": "Maharashtra",
+        "city": "Mumbai",
+        "locality": "CST"
+      }
+    },
+    {
+      "id": "Clgart2",
+      "name": "K. J. Somaiya College Of Arts And Commerce",
+      "stream": "Arts",
+      "cutoff": {
+        "lastYear": "",
+        "currentYear": ""
+      },
+      "location": {
+        "state": "Maharashtra",
+        "city": "Mumbai",
+        "locality": "Ghatkopar"
+      }
+    },
+    {
+      "id": "Clgart3",
+      "name": "Mithibai College of Arts, Mumbai",
+      "stream": "Arts",
+      "cutoff": {
+        "lastYear": "",
+        "currentYear": ""
+      },
+      "location": {
+        "state": "Maharashtra",
+        "city": "Mumbai",
+        "locality": "Vile Parle"
+      }
+    },
+    {
+      "id": "Clgcom1",
+      "name": "K. J. Somaiya College Of Arts And Commerce",
+      "stream": "Commerce",
+      "cutoff": {
+        "lastYear": "",
+        "currentYear": ""
+      },
+      "location": {
+        "state": "Maharashtra",
+        "city": "Mumbai",
+        "locality": "Ghatkopar"
+      }
+    },
+    {
+      "id": "Clgcom2",
+      "name": "Mithibai College of Arts, Mumbai",
+      "stream": "Commerce",
+      "cutoff": {
+        "lastYear": "",
+        "currentYear": ""
+      },
+      "location": {
+        "state": "Maharashtra",
+        "city": "Mumbai",
+        "locality": "Vile Parle"
+      }
+    },
+    {
+      "id": "Clgcom3",
+      "name": "K.P.B. Hinduja College of Commerce and Economics",
+      "stream": "Commerce",
+      "cutoff": {
+        "lastYear": "",
+        "currentYear": ""
+      },
+      "location": {
+        "state": "Maharashtra",
+        "city": "Mumbai",
+        "locality": "Charni Road"
+      }
+    },
+    {
+      "id": "Clgdoc1",
+      "name": "Grant Medical College",
+      "stream": "MBBS",
+      "cutoff": {
+        "lastYear": "",
+        "currentYear": ""
+      },
+      "location": {
+        "state": "Maharashtra",
+        "city": "Mumbai",
+        "locality": "Mumbai Central"
+      }
+    },
+    {
+      "id": "Clgdoc2",
+      "name": "Seth Gordhandas Sunderdas Medical College",
+      "stream": "MBBS",
+      "cutoff": {
+        "lastYear": "",
+        "currentYear": ""
+      },
+      "location": {
+        "state": "Maharashtra",
+        "city": "Mumbai",
+        "locality": "Parel"
+      }
+    },
+    {
+      "id": "Clgdoc3",
+      "name": "Lokmanya Tilak Municipal General Hospital And Medical College",
+      "stream": "MBBS",
+      "cutoff": {
+        "lastYear": "",
+        "currentYear": ""
+      },
+      "location": {
+        "state": "Maharashtra",
+        "city": "Mumbai",
+        "locality": "Sion"
+      }
     }
   ]
 }
