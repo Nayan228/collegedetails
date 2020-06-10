@@ -41,6 +41,48 @@
         "city": "Mumbai",
         "locality": "Vile Parle"
       }
+    },
+    {
+      "id": "Clgdip1",
+      "name": "Veermata Jijabai Technological Institute, Mumbai",
+      "stream": "Diploma",
+      "cutoff": {
+        "lastYear": "",
+        "currentYear": ""
+      },
+      "location": {
+        "state": "Maharashtra",
+        "city": "Mumbai",
+        "locality": "Matunga"
+      }
+    },
+    {
+      "id": "Clgdip2",
+      "name": "Government Polytechnic",
+      "stream": "Diploma",
+      "cutoff": {
+        "lastYear": "",
+        "currentYear": ""
+      },
+      "location": {
+        "state": "Maharashtra",
+        "city": "Mumbai",
+        "locality": "Bandra"
+      }
+    },
+    {
+      "id": "Clgdip3",
+      "name": "KJ Somaiya Polytechnic",
+      "stream": "Diploma",
+      "cutoff": {
+        "lastYear": "",
+        "currentYear": ""
+      },
+      "location": {
+        "state": "Maharashtra",
+        "city": "Mumbai",
+        "locality": "VidyaVihar"
+      }
     }
   ]
 }
