@@ -1,214 +1,224 @@
 {
-  "colleges": [
-    {
-      "id": "Clgeng1",
-      "name": "Bharatiya Vidya Bhavan's Sardar Patel College of Engineering",
-      "stream": "Engineering",
-      "cutoff": {
-        "lastYear": "",
-        "currentYear": ""
+  "colleges": {
+    "Engineering": [
+      {
+        "id": "Clgeng1",
+        "name": "Bharatiya Vidya Bhavan's Sardar Patel College of Engineering",
+        "stream": "Engineering",
+        "cutoff": {
+          "lastYear": "",
+          "currentYear": ""
+        },
+        "location": {
+          "state": "Maharashtra",
+          "city": "Mumbai",
+          "locality": "Andheri"
+        }
       },
-      "location": {
-        "state": "Maharashtra",
-        "city": "Mumbai",
-        "locality": "Andheri"
-      }
-    },
-    {
-      "id": "Clgeng2",
-      "name": "IIT Bombay - Indian Institute of Technology",
-      "stream": "Engineering",
-      "cutoff": {
-        "lastYear": "",
-        "currentYear": ""
+      {
+        "id": "Clgeng2",
+        "name": "IIT Bombay - Indian Institute of Technology",
+        "stream": "Engineering",
+        "cutoff": {
+          "lastYear": "",
+          "currentYear": ""
+        },
+        "location": {
+          "state": "Maharashtra",
+          "city": "Mumbai",
+          "locality": "Powai"
+        }
       },
-      "location": {
-        "state": "Maharashtra",
-        "city": "Mumbai",
-        "locality": "Powai"
+      {
+        "id": "Clgeng3",
+        "name": "Dwarkadas J Sanghvi College of Engineering",
+        "stream": "Engineering",
+        "cutoff": {
+          "lastYear": "",
+          "currentYear": ""
+        },
+        "location": {
+          "state": "Maharashtra",
+          "city": "Mumbai",
+          "locality": "Vile Parle"
+        }
       }
-    },
-    {
-      "id": "Clgeng3",
-      "name": "Dwarkadas J Sanghvi College of Engineering",
-      "stream": "Engineering",
-      "cutoff": {
-        "lastYear": "",
-        "currentYear": ""
+    ],
+    "Diploma": [
+      {
+        "id": "Clgdip1",
+        "name": "Veermata Jijabai Technological Institute, Mumbai",
+        "stream": "Diploma",
+        "cutoff": {
+          "lastYear": "",
+          "currentYear": ""
+        },
+        "location": {
+          "state": "Maharashtra",
+          "city": "Mumbai",
+          "locality": "Matunga"
+        }
       },
-      "location": {
-        "state": "Maharashtra",
-        "city": "Mumbai",
-        "locality": "Vile Parle"
-      }
-    },
-    {
-      "id": "Clgdip1",
-      "name": "Veermata Jijabai Technological Institute, Mumbai",
-      "stream": "Diploma",
-      "cutoff": {
-        "lastYear": "",
-        "currentYear": ""
+      {
+        "id": "Clgdip2",
+        "name": "Government Polytechnic",
+        "stream": "Diploma",
+        "cutoff": {
+          "lastYear": "",
+          "currentYear": ""
+        },
+        "location": {
+          "state": "Maharashtra",
+          "city": "Mumbai",
+          "locality": "Bandra"
+        }
       },
-      "location": {
-        "state": "Maharashtra",
-        "city": "Mumbai",
-        "locality": "Matunga"
+      {
+        "id": "Clgdip3",
+        "name": "KJ Somaiya Polytechnic",
+        "stream": "Diploma",
+        "cutoff": {
+          "lastYear": "",
+          "currentYear": ""
+        },
+        "location": {
+          "state": "Maharashtra",
+          "city": "Mumbai",
+          "locality": "VidyaVihar"
+        }
       }
-    },
-    {
-      "id": "Clgdip2",
-      "name": "Government Polytechnic",
-      "stream": "Diploma",
-      "cutoff": {
-        "lastYear": "",
-        "currentYear": ""
+    ],
+    "Arts": [
+      {
+        "id": "Clgart1",
+        "name": "St. Xavier's College",
+        "stream": "Arts",
+        "cutoff": {
+          "lastYear": "",
+          "currentYear": ""
+        },
+        "location": {
+          "state": "Maharashtra",
+          "city": "Mumbai",
+          "locality": "CST"
+        }
       },
-      "location": {
-        "state": "Maharashtra",
-        "city": "Mumbai",
-        "locality": "Bandra"
-      }
-    },
-    {
-      "id": "Clgdip3",
-      "name": "KJ Somaiya Polytechnic",
-      "stream": "Diploma",
-      "cutoff": {
-        "lastYear": "",
-        "currentYear": ""
+      {
+        "id": "Clgart2",
+        "name": "K. J. Somaiya College Of Arts And Commerce",
+        "stream": "Arts",
+        "cutoff": {
+          "lastYear": "",
+          "currentYear": ""
+        },
+        "location": {
+          "state": "Maharashtra",
+          "city": "Mumbai",
+          "locality": "Ghatkopar"
+        }
       },
-      "location": {
-        "state": "Maharashtra",
-        "city": "Mumbai",
-        "locality": "VidyaVihar"
+      {
+        "id": "Clgart3",
+        "name": "Mithibai College of Arts, Mumbai",
+        "stream": "Arts",
+        "cutoff": {
+          "lastYear": "",
+          "currentYear": ""
+        },
+        "location": {
+          "state": "Maharashtra",
+          "city": "Mumbai",
+          "locality": "Vile Parle"
+        }
       }
-    },
-    {
-      "id": "Clgart1",
-      "name": "St. Xavier's College",
-      "stream": "Arts",
-      "cutoff": {
-        "lastYear": "",
-        "currentYear": ""
+    ],
+    "Commerce": [
+      {
+        "id": "Clgcom1",
+        "name": "K. J. Somaiya College Of Arts And Commerce",
+        "stream": "Commerce",
+        "cutoff": {
+          "lastYear": "",
+          "currentYear": ""
+        },
+        "location": {
+          "state": "Maharashtra",
+          "city": "Mumbai",
+          "locality": "Ghatkopar"
+        }
       },
-      "location": {
-        "state": "Maharashtra",
-        "city": "Mumbai",
-        "locality": "CST"
-      }
-    },
-    {
-      "id": "Clgart2",
-      "name": "K. J. Somaiya College Of Arts And Commerce",
-      "stream": "Arts",
-      "cutoff": {
-        "lastYear": "",
-        "currentYear": ""
+      {
+        "id": "Clgcom2",
+        "name": "Mithibai College of Arts, Mumbai",
+        "stream": "Commerce",
+        "cutoff": {
+          "lastYear": "",
+          "currentYear": ""
+        },
+        "location": {
+          "state": "Maharashtra",
+          "city": "Mumbai",
+          "locality": "Vile Parle"
+        }
       },
-      "location": {
-        "state": "Maharashtra",
-        "city": "Mumbai",
-        "locality": "Ghatkopar"
+      {
+        "id": "Clgcom3",
+        "name": "K.P.B. Hinduja College of Commerce and Economics",
+        "stream": "Commerce",
+        "cutoff": {
+          "lastYear": "",
+          "currentYear": ""
+        },
+        "location": {
+          "state": "Maharashtra",
+          "city": "Mumbai",
+          "locality": "Charni Road"
+        }
       }
-    },
-    {
-      "id": "Clgart3",
-      "name": "Mithibai College of Arts",
-      "stream": "Arts",
-      "cutoff": {
-        "lastYear": "",
-        "currentYear": ""
+    ],
+    "MBBS": [
+      {
+        "id": "Clgdoc1",
+        "name": "Grant Medical College",
+        "stream": "MBBS",
+        "cutoff": {
+          "lastYear": "",
+          "currentYear": ""
+        },
+        "location": {
+          "state": "Maharashtra",
+          "city": "Mumbai",
+          "locality": "Mumbai Central"
+        }
       },
-      "location": {
-        "state": "Maharashtra",
-        "city": "Mumbai",
-        "locality": "Vile Parle"
-      }
-    },
-    {
-      "id": "Clgcom1",
-      "name": "K. J. Somaiya College Of Arts And Commerce",
-      "stream": "Commerce",
-      "cutoff": {
-        "lastYear": "",
-        "currentYear": ""
+      {
+        "id": "Clgdoc2",
+        "name": "Seth Gordhandas Sunderdas Medical College",
+        "stream": "MBBS",
+        "cutoff": {
+          "lastYear": "",
+          "currentYear": ""
+        },
+        "location": {
+          "state": "Maharashtra",
+          "city": "Mumbai",
+          "locality": "Parel"
+        }
       },
-      "location": {
-        "state": "Maharashtra",
-        "city": "Mumbai",
-        "locality": "Ghatkopar"
+      {
+        "id": "Clgdoc3",
+        "name": "Lokmanya Tilak Municipal General Hospital And Medical College",
+        "stream": "MBBS",
+        "cutoff": {
+          "lastYear": "",
+          "currentYear": ""
+        },
+        "location": {
+          "state": "Maharashtra",
+          "city": "Mumbai",
+          "locality": "Sion"
+        }
       }
-    },
-    {
-      "id": "Clgcom2",
-      "name": "Mithibai College of Arts",
-      "stream": "Commerce",
-      "cutoff": {
-        "lastYear": "",
-        "currentYear": ""
-      },
-      "location": {
-        "state": "Maharashtra",
-        "city": "Mumbai",
-        "locality": "Vile Parle"
-      }
-    },
-    {
-      "id": "Clgcom3",
-      "name": "K.P.B. Hinduja College of Commerce and Economics",
-      "stream": "Commerce",
-      "cutoff": {
-        "lastYear": "",
-        "currentYear": ""
-      },
-      "location": {
-        "state": "Maharashtra",
-        "city": "Mumbai",
-        "locality": "Charni Road"
-      }
-    },
-    {
-      "id": "Clgdoc1",
-      "name": "Grant Medical College",
-      "stream": "MBBS",
-      "cutoff": {
-        "lastYear": "",
-        "currentYear": ""
-      },
-      "location": {
-        "state": "Maharashtra",
-        "city": "Mumbai",
-        "locality": "Mumbai Central"
-      }
-    },
-    {
-      "id": "Clgdoc2",
-      "name": "Seth Gordhandas Sunderdas Medical College",
-      "stream": "MBBS",
-      "cutoff": {
-        "lastYear": "",
-        "currentYear": ""
-      },
-      "location": {
-        "state": "Maharashtra",
-        "city": "Mumbai",
-        "locality": "Parel"
-      }
-    },
-    {
-      "id": "Clgdoc3",
-      "name": "Lokmanya Tilak Municipal General Hospital And Medical College",
-      "stream": "MBBS",
-      "cutoff": {
-        "lastYear": "",
-        "currentYear": ""
-      },
-      "location": {
-        "state": "Maharashtra",
-        "city": "Mumbai",
-        "locality": "Sion"
-      }
-    }
-  ]
+    ]
+  }
 }
